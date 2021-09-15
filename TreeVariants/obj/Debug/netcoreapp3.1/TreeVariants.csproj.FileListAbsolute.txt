@@ -1,0 +1,13 @@
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.exe
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.deps.json
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.runtimeconfig.json
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.runtimeconfig.dev.json
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.dll
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\bin\Debug\netcoreapp3.1\TreeVariants.pdb
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.csprojAssemblyReference.cache
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.AssemblyInfoInputs.cache
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.AssemblyInfo.cs
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.csproj.CoreCompileInputs.cache
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.dll
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.pdb
+C:\Users\rsimiyu\source\repos\TreeVariants\TreeVariants\obj\Debug\netcoreapp3.1\TreeVariants.genruntimeconfig.cache
